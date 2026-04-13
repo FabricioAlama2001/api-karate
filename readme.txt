@@ -41,7 +41,7 @@ Debe mostrarse Maven instalado correctamente.
 
 Ejecutar en consola:
 
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/FabricioAlama2001/api-karate.git
 
 Luego ingresar a la carpeta del proyecto:
 
